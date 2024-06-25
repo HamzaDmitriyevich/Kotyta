@@ -1,1 +1,3 @@
 Pipfile.lock
+secrets.py
+__pycache__
